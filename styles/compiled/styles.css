@@ -102,7 +102,7 @@ h3 {
     color: #50A0A1;
     margin-top: -25px; }
   .welcome-section .avatar {
-    background-image: url(../../img/avatar.jpg);
+    background-image: url(../../img/profile_shot.jpg);
     height: 50vw;
     width: 50vw;
     max-width: 200px;
@@ -132,5 +132,9 @@ h3 {
       line-height: 1em; }
     .welcome-section .intro .location {
       line-height: .5em; }
+
+.ig_widget {
+  width: 90%;
+  margin: 0 5%; }
 
 /*# sourceMappingURL=styles.css.map */
